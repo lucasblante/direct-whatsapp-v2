@@ -5,8 +5,8 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Capy - Send Whatsapp',
-  description: 'Send Whatsapp messages without adding contacts',
+  title: 'Capy - Direct Whatsapp',
+  description: 'Envie mensagens diretamente sem adicioanar aos contatos.',
 }
 
 export default function RootLayout({
