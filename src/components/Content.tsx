@@ -103,12 +103,12 @@ export default function Content({ thsMode }: ContentProps) {
       </form>
 
       <a
-        href='http://www.capy.digital'
+        href='https://github.com/lucasblante'
         target='_blank'
         rel='noopener noreferrer'
         className='mt-2 mb-6 text-grey-300 text-sm hover:underline'
       >
-        Desenvolvido por ©Capy Soluções.
+        Desenvolvido por @lucasblante.
       </a>
     </main>
   )
