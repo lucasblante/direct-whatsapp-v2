@@ -36,7 +36,7 @@ export default function Content({ thsMode }: ContentProps) {
 
   function sendMessage(data: sendMessageData) {
     window.open(
-      `https://wa.me/send?phone=${data.phone}&text=${data.message}`,
+      `https://web.whatsapp.com/send?phone=${data.phone}&text=${data.message}`,
       '_blank'
     )
   }
